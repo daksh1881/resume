@@ -1,0 +1,84 @@
+.firstfloor{
+    display: flex;
+    background-color: aquamarine;
+}
+.student{
+    color: black;
+    text-shadow: 0px 0px 0px black;
+   
+}
+.text{
+    margin-left: 50px;
+}
+.parents{
+    margin-left: 50px;
+}
+.aboutme{
+   display: block;
+   margin-left: 50px;
+   border-width: 300px;
+   color: rgb(255, 255, 255);
+   text-shadow: 5px 5px 5px black;
+   box-sizing: border-box;
+   
+   
+}
+.language{
+    margin-top: 100px;
+}
+h3{
+    text-decoration:  dotted underline;
+    
+    
+}
+.smc{
+    margin-bottom: 800px;
+    margin-left: 500px;
+}
+.all{
+    background-image:url(pictures/resume.avif) ;
+    background-size: cover;
+}
+h2{
+    color: rgb(89, 255, 0);
+    text-shadow: 0px 0px 5px black;
+}
+.flex{
+
+    flex-direction: row;
+    display: flex;
+}
+h1{
+    display:block;
+}
+.flex{
+    display: block;
+    
+}
+
+h3{
+    color: white;
+    text-shadow: 0px 0px 5px black;
+}
+.language{
+    margin-top: 100px;
+}
+.toflex{
+    display: flex;
+    margin-left: 50px;
+    
+}
+.right{
+    margin-left: 100px;
+}
+
+
+.thank{
+    margin-left: 150px;
+    margin-top: 35px;
+    text-decoration: underline;
+    font-style: italic;
+    font-size: x-large;
+    text-shadow: 0px 0px 5px rgb(255, 255, 255);
+    color: rgb(60, 60, 60);
+}
